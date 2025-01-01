@@ -167,14 +167,7 @@
 //   ? "You can deliver"
 //   : "You should not deliver becaseu customer hasnt paid yet";
 
-// const bmi = 24;
-// const bmiMessage = 18 <= bmi && bmi <= 25 ? "Normal" : "Not normal";
-// console.log(bmi, bmiMessage);
-// if (kankor) {
-//   isEligible = true;
-// } else {
-//   isEligible = false;
-// }
-
-
 // DOM -> Document Object Model
+
+// pull ->کشیدن
+// push -> فشار دادن
